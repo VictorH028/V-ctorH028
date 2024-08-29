@@ -6,7 +6,7 @@
   </a>
 
   <img
-  src="../.img/grim-reaper-clipart-xl.png"
+  src="./.img/grim-reaper-clipart-xl.png"
   alt="Grim-reaper-clipart"/>  
 </div>
 
@@ -46,5 +46,5 @@
 </div>
 
 <div align="center">
-  <img src="../.img/a.gif" alt="Fuego gif" style="width:1128px;height:120px;">
+  <img src="./.img/a.gif" alt="Fuego gif" style="width:1128px;height:120px;">
 </div>
