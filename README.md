@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="a.gif"  />
+  <img src="a.gif" alt="Fuego gif" style="width:128px;height:128px;">
 </div>
