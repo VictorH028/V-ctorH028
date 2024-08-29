@@ -3,8 +3,12 @@
 
   <img
   src="../.img/grim-reaper-clipart-xl.png"
+<<<<<<< HEAD
   alt="Grim-reaper-clipart"/>
   
+=======
+  />
+>>>>>>> 772d6e1a0ef8a99adb50f14e6ddf0b7d60c2aa55
 </div>
 
 <div align="center">
