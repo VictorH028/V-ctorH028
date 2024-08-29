@@ -7,7 +7,9 @@
 ----
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/demonr_rip)
-  
+
+----  
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=VictorH028&show_icons=true&theme=dark"
@@ -20,5 +22,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&show_icons=true" />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH028&show_icons=true&theme=Gradient)
+
   
