@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=435&lines=DemonHunter" alt="Typing SVG" /></a>
-<img
+
+  <img
   src="grim-reaper-clipart-xl.png"
   />
 </div>
@@ -40,3 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+<div align="center">
+  <img src="a.gif"  />
+</div>
