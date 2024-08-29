@@ -1,14 +1,13 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=435&lines=DemonHunter" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=435&lines=DemonHunter" 
+  alt="Typing SVG" />
+  </a>
 
   <img
   src="../.img/grim-reaper-clipart-xl.png"
-<<<<<<< HEAD
-  alt="Grim-reaper-clipart"/>
-  
-=======
-  />
->>>>>>> 772d6e1a0ef8a99adb50f14e6ddf0b7d60c2aa55
+  alt="Grim-reaper-clipart"/>  
 </div>
 
 <div align="center">
