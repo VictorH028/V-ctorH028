@@ -1,4 +1,5 @@
 <div align="center">
+  <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=435&lines=DemonHunter" alt="Typing SVG" /></a>
 <img
   src="grim-reaper-clipart-xl.png"
