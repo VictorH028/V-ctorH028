@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=435&lines=DemonHunter" alt="Typing SVG" /></a>
 
   <img
-  src="grim-reaper-clipart-xl.png"
+  src="./.img/grim-reaper-clipart-xl.png"
   />
 </div>
 
@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="a.gif" alt="Fuego gif" style="width:1128px;height:120px;">
+  <img src="./.img/a.gif" alt="Fuego gif" style="width:1128px;height:120px;">
 </div>
