@@ -6,10 +6,8 @@
 
 ----
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Ivam3by_Cinderella)
-
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/demonr_rip)
   
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH028&show_icons=true&theme=Gradient)
   
