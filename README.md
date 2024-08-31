@@ -16,7 +16,6 @@
 
 ![linea](.img/linea.gif)
 
-----
 <div align="center">
   <a href="Aaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -41,7 +40,7 @@
   </a>
 </div>
 
-----  
+![linea](.img/linea.gif)
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
