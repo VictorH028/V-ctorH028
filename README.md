@@ -14,6 +14,8 @@
   <img src="https://profile-counter.glitch.me/VictorH028/count.svg?"  />
 </div>
 
+![linea](.img/linea.gif)
+
 ----
 <div align="center">
   <a href="Aaaa" target="_blank">
